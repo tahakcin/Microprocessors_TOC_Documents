@@ -1,0 +1,12 @@
+Deney Föyü 4: Kapasitif Dokunmatik Tuş Takımı
+Amaç: Kapasitif bir dokunmatik tuş takımı oluşturup bir LCD ekranda tuş takımı girişi göstermek.
+
+Devre Elemanları:
+
+Mikrodenetleyici: Atmega328 (Arduino Nano)
+Kapasitif Dokunmatik Sensör (TTP229)
+16x2 LCD Ekran
+Proteus Devresi:
+
+Kapasitif tuş takımından veri alınıp LCD ekranda gösterilir.
+Basılan tuşa göre farklı komutlar çalıştırılır.

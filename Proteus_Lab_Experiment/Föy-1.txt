@@ -1,0 +1,11 @@
+Deney Föyü 1: 7-Segment Display ile Sıcaklık Göstergesi
+Amaç: Bir sıcaklık sensörü (örneğin LM35) kullanarak sıcaklığı ölçüp 7-segment ekranda göstermek.
+
+Devre Elemanları:
+Mikrodenetleyici: PIC16F877A
+Sıcaklık Sensörü: LM35
+7-Segment Display (2 adet)
+ADC modülü (PIC üzerinde)
+Proteus Devresi:
+LM35 sensöründen gelen analog sıcaklık verisi PIC’in ADC modülü ile okunur.
+Sıcaklık verisi işlenip iki basamaklı 7-segment ekranda gösterilir.

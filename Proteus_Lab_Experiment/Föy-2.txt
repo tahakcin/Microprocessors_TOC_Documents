@@ -1,0 +1,13 @@
+Deney Föyü 2: DC Motoru Yön ve Hız Kontrolü
+Amaç: H-Bridge (L298N) motor sürücüsü kullanarak bir DC motorun hızını PWM ile kontrol etmek ve buton ile yönünü değiştirmek.
+
+Devre Elemanları:
+
+Mikrodenetleyici: Arduino Uno
+DC Motor
+H-Bridge motor sürücüsü (L298N)
+Butonlar (2 adet: hız artırma/azaltma ve yön değiştirme)
+Proteus Devresi:
+
+Hız PWM sinyalleri ile ayarlanır.
+Butona basıldığında motorun dönüş yönü değiştirilir.

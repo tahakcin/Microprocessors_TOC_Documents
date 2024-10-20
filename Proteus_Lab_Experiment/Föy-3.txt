@@ -1,0 +1,12 @@
+Deney Föyü 3: Işık Takip Eden Robot
+Amaç: Foto direnç (LDR) kullanarak ışık kaynağını takip eden basit bir robot yapmak.
+
+Devre Elemanları:
+
+Mikrodenetleyici: 8051
+2 DC Motor (tekerleği döndürmek için)
+2 LDR (ışık sensörleri)
+H-Bridge motor sürücüsü (L298N)
+Proteus Devresi:
+
+LDR’ler ışığı algılar ve bu veriye göre motorların hızı ayarlanarak robotun ışık kaynağını takip etmesi sağlanır.
